@@ -6,7 +6,7 @@ Team Members: Cui Rongxuan---0391767                           Role: Organizing 
                                                                Creating burndown chart
                                                                Making sure deadlines are met
 
-              Jana Ahmed Mohammed Ahmed Mansour                Role: Wireframes
+              Jana Ahmed Mohammed Ahmed Mansour---0391558      Role: Wireframes
                                                                Mockups
                                                                Building prototype
                                                                Designing user interface logic
